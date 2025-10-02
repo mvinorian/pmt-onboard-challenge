@@ -4,7 +4,7 @@
   "license": "ISC",
   "type": "module",
   "scripts": {
-    "test": "ts-node --project tsconfig.json --esm src/index.ts"
+    "test": "tsx src/index.ts"
   },
   "dependencies": {
     "@types/node": "^24.6.0",

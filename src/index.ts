@@ -15,6 +15,8 @@ const main = async () => {
 
   await page.waitForSelector('table');
   const data = await page.evaluate(() => {
+    (window as any).__name = (func: Function) => func;
+
     function extractTable(table: HTMLTableElement | null) {
       const tableRows = [...(table?.querySelectorAll('tr') || [])];
       const tableData = tableRows
