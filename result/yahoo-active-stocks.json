@@ -1,0 +1,534 @@
+[
+  {
+    "page": 1,
+    "items": [
+      {
+        "name": "Plug Power Inc.",
+        "symbol": "PLUG",
+        "price": "2.9300",
+        "change": "+0.6000",
+        "percentChange": "+25.75",
+        "volume": "212.701M",
+        "avgVolume": "73.792M",
+        "marketCap": "3.413B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Snap Inc.",
+        "symbol": "SNAP",
+        "price": "7.71",
+        "change": "0.00",
+        "percentChange": "0.00",
+        "volume": "182.848M",
+        "avgVolume": "81.04M",
+        "marketCap": "13.975B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Opendoor Technologies Inc.",
+        "symbol": "OPEN",
+        "price": "8.06",
+        "change": "+0.09",
+        "percentChange": "+1.13",
+        "volume": "175.728M",
+        "avgVolume": "347.39M",
+        "marketCap": "6.538B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "items": [
+      {
+        "name": "NIKE, Inc.",
+        "symbol": "NKE",
+        "price": "74.20",
+        "change": "+4.47",
+        "percentChange": "+6.41",
+        "volume": "53.613M",
+        "avgVolume": "12.117M",
+        "marketCap": "102.364B",
+        "peRatio": "35.67"
+      },
+      {
+        "name": "Archer Aviation Inc.",
+        "symbol": "ACHR",
+        "price": "9.81",
+        "change": "+0.23",
+        "percentChange": "+2.40",
+        "volume": "50.898M",
+        "avgVolume": "33.889M",
+        "marketCap": "6.328B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Kenvue Inc.",
+        "symbol": "KVUE",
+        "price": "15.85",
+        "change": "-0.38",
+        "percentChange": "-2.34",
+        "volume": "49.913M",
+        "avgVolume": "25.863M",
+        "marketCap": "31.511B",
+        "peRatio": "22.01"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "items": [
+      {
+        "name": "AT&T Inc.",
+        "symbol": "T",
+        "price": "27.55",
+        "change": "-0.69",
+        "percentChange": "-2.44",
+        "volume": "36.291M",
+        "avgVolume": "30.859M",
+        "marketCap": "202.427B",
+        "peRatio": "16.21"
+      },
+      {
+        "name": "Vale S.A.",
+        "symbol": "VALE",
+        "price": "10.98",
+        "change": "+0.12",
+        "percentChange": "+1.10",
+        "volume": "30.059M",
+        "avgVolume": "35.505M",
+        "marketCap": "46.871B",
+        "peRatio": "8.93"
+      },
+      {
+        "name": "Merck & Co., Inc.",
+        "symbol": "MRK",
+        "price": "90.13",
+        "change": "+6.20",
+        "percentChange": "+7.39",
+        "volume": "29.716M",
+        "avgVolume": "12.287M",
+        "marketCap": "225.125B",
+        "peRatio": "12.11"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "items": [
+      {
+        "name": "Applied Digital Corporation",
+        "symbol": "APLD",
+        "price": "25.00",
+        "change": "+2.06",
+        "percentChange": "+8.98",
+        "volume": "23.283M",
+        "avgVolume": "30.317M",
+        "marketCap": "6.733B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Webull Corporation",
+        "symbol": "BULL",
+        "price": "14.11",
+        "change": "-0.68",
+        "percentChange": "-4.60",
+        "volume": "23.075M",
+        "avgVolume": "14.879M",
+        "marketCap": "7.497B",
+        "peRatio": "100.79"
+      },
+      {
+        "name": "TeraWulf Inc.",
+        "symbol": "WULF",
+        "price": "11.47",
+        "change": "+0.05",
+        "percentChange": "+0.44",
+        "volume": "22.851M",
+        "avgVolume": "50.557M",
+        "marketCap": "4.704B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "items": [
+      {
+        "name": "Wells Fargo & Company",
+        "symbol": "WFC",
+        "price": "80.87",
+        "change": "-2.95",
+        "percentChange": "-3.52",
+        "volume": "16.89M",
+        "avgVolume": "15.526M",
+        "marketCap": "272.325B",
+        "peRatio": "14.60"
+      },
+      {
+        "name": "Uranium Energy Corp.",
+        "symbol": "UEC",
+        "price": "12.99",
+        "change": "-0.35",
+        "percentChange": "-2.62",
+        "volume": "16.922M",
+        "avgVolume": "14.899M",
+        "marketCap": "6.353B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Western Digital Corporation",
+        "symbol": "WDC",
+        "price": "130.59",
+        "change": "+10.53",
+        "percentChange": "+8.77",
+        "volume": "18.483M",
+        "avgVolume": "7.785M",
+        "marketCap": "45.305B",
+        "peRatio": "24.05"
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "items": [
+      {
+        "name": "Compass, Inc.",
+        "symbol": "COMP",
+        "price": "7.63",
+        "change": "-0.40",
+        "percentChange": "-4.98",
+        "volume": "14.341M",
+        "avgVolume": "8.819M",
+        "marketCap": "4.432B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Alibaba Group Holding Limited",
+        "symbol": "BABA",
+        "price": "182.78",
+        "change": "+4.05",
+        "percentChange": "+2.27",
+        "volume": "14.735M",
+        "avgVolume": "18.387M",
+        "marketCap": "435.839B",
+        "peRatio": "20.65"
+      },
+      {
+        "name": "Wolfspeed, Inc.",
+        "symbol": "WOLF",
+        "price": "24.83",
+        "change": "-3.77",
+        "percentChange": "-13.18",
+        "volume": "13.974M",
+        "avgVolume": "47.734M",
+        "marketCap": "641.623M",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "items": [
+      {
+        "name": "Upstart Holdings, Inc.",
+        "symbol": "UPST",
+        "price": "52.13",
+        "change": "+1.33",
+        "percentChange": "+2.62",
+        "volume": "13.363M",
+        "avgVolume": "7.078M",
+        "marketCap": "5.518B",
+        "peRatio": "--"
+      },
+      {
+        "name": "First Horizon Corporation",
+        "symbol": "FHN",
+        "price": "22.36",
+        "change": "-0.25",
+        "percentChange": "-1.11",
+        "volume": "11.73M",
+        "avgVolume": "10.018M",
+        "marketCap": "11.602B",
+        "peRatio": "14.71"
+      },
+      {
+        "name": "Enovix Corporation",
+        "symbol": "ENVX",
+        "price": "11.11",
+        "change": "+1.14",
+        "percentChange": "+11.43",
+        "volume": "11.986M",
+        "avgVolume": "8.568M",
+        "marketCap": "2.418B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "items": [
+      {
+        "name": "Lucid Group, Inc.",
+        "symbol": "LCID",
+        "price": "24.30",
+        "change": "+0.50",
+        "percentChange": "+2.12",
+        "volume": "10.416M",
+        "avgVolume": "12.86M",
+        "marketCap": "7.466B",
+        "peRatio": "--"
+      },
+      {
+        "name": "United Microelectronics Corporation",
+        "symbol": "UMC",
+        "price": "7.41",
+        "change": "-0.17",
+        "percentChange": "-2.24",
+        "volume": "10.244M",
+        "avgVolume": "6.53M",
+        "marketCap": "18.608B",
+        "peRatio": "13.72"
+      },
+      {
+        "name": "Maplebear Inc.",
+        "symbol": "CART",
+        "price": "37.45",
+        "change": "+0.69",
+        "percentChange": "+1.88",
+        "volume": "11.078M",
+        "avgVolume": "5.103M",
+        "marketCap": "11.149B",
+        "peRatio": "24.48"
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "items": [
+      {
+        "name": "ADT Inc.",
+        "symbol": "ADT",
+        "price": "8.68",
+        "change": "-0.03",
+        "percentChange": "-0.34",
+        "volume": "8.905M",
+        "avgVolume": "11.197M",
+        "marketCap": "7.225B",
+        "peRatio": "12.23"
+      },
+      {
+        "name": "Salesforce, Inc.",
+        "symbol": "CRM",
+        "price": "235.69",
+        "change": "-1.31",
+        "percentChange": "-0.55",
+        "volume": "8.806M",
+        "avgVolume": "8.21M",
+        "marketCap": "231.745B",
+        "peRatio": "35.34"
+      },
+      {
+        "name": "Patterson-UTI Energy, Inc.",
+        "symbol": "PTEN",
+        "price": "5.37",
+        "change": "+0.19",
+        "percentChange": "+3.67",
+        "volume": "9.743M",
+        "avgVolume": "8.332M",
+        "marketCap": "2.149B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "items": [
+      {
+        "name": "Wipro Limited",
+        "symbol": "WIT",
+        "price": "2.6300",
+        "change": "0.0000",
+        "percentChange": "0.00",
+        "volume": "7.914M",
+        "avgVolume": "7.719M",
+        "marketCap": "27.798B",
+        "peRatio": "18.79"
+      },
+      {
+        "name": "Coinbase Global, Inc.",
+        "symbol": "COIN",
+        "price": "346.17",
+        "change": "+8.68",
+        "percentChange": "+2.57",
+        "volume": "8.313M",
+        "avgVolume": "11.047M",
+        "marketCap": "80.316B",
+        "peRatio": "30.13"
+      },
+      {
+        "name": "The Kroger Co.",
+        "symbol": "KR",
+        "price": "66.51",
+        "change": "-0.90",
+        "percentChange": "-1.34",
+        "volume": "7.838M",
+        "avgVolume": "7.066M",
+        "marketCap": "44.075B",
+        "peRatio": "16.63"
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "items": [
+      {
+        "name": "Philip Morris International Inc.",
+        "symbol": "PM",
+        "price": "160.86",
+        "change": "-1.34",
+        "percentChange": "-0.83",
+        "volume": "7.08M",
+        "avgVolume": "5.785M",
+        "marketCap": "256.666B",
+        "peRatio": "24.37"
+      },
+      {
+        "name": "Datadog, Inc.",
+        "symbol": "DDOG",
+        "price": "152.70",
+        "change": "+10.30",
+        "percentChange": "+7.23",
+        "volume": "7.806M",
+        "avgVolume": "7.032M",
+        "marketCap": "49.363B",
+        "peRatio": "381.75"
+      },
+      {
+        "name": "Flagstar Financial, Inc.",
+        "symbol": "FLG",
+        "price": "11.71",
+        "change": "+0.16",
+        "percentChange": "+1.39",
+        "volume": "7.056M",
+        "avgVolume": "5.777M",
+        "marketCap": "4.866B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "items": [
+      {
+        "name": "Intellia Therapeutics, Inc.",
+        "symbol": "NTLA",
+        "price": "18.76",
+        "change": "+1.49",
+        "percentChange": "+8.63",
+        "volume": "6.504M",
+        "avgVolume": "5.182M",
+        "marketCap": "2.014B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Viatris Inc.",
+        "symbol": "VTRS",
+        "price": "10.09",
+        "change": "+0.19",
+        "percentChange": "+1.92",
+        "volume": "7.977M",
+        "avgVolume": "9.54M",
+        "marketCap": "11.764B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Merus N.V.",
+        "symbol": "MRUS",
+        "price": "94.15",
+        "change": "0.00",
+        "percentChange": "0.00",
+        "volume": "6.663M",
+        "avgVolume": "1.45M",
+        "marketCap": "7.135B",
+        "peRatio": "--"
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "items": [
+      {
+        "name": "Caesars Entertainment, Inc.",
+        "symbol": "CZR",
+        "price": "25.95",
+        "change": "-1.08",
+        "percentChange": "-3.98",
+        "volume": "5.786M",
+        "avgVolume": "7.028M",
+        "marketCap": "5.624B",
+        "peRatio": "--"
+      },
+      {
+        "name": "Lufax Holding Ltd",
+        "symbol": "LU",
+        "price": "4.4000",
+        "change": "+0.3400",
+        "percentChange": "+8.37",
+        "volume": "5.782M",
+        "avgVolume": "2.374M",
+        "marketCap": "3.813B",
+        "peRatio": "--"
+      },
+      {
+        "name": "United Parcel Service, Inc.",
+        "symbol": "UPS",
+        "price": "84.38",
+        "change": "+0.85",
+        "percentChange": "+1.02",
+        "volume": "5.8M",
+        "avgVolume": "8.055M",
+        "marketCap": "70.959B",
+        "peRatio": "12.45"
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "items": [
+      {
+        "name": "Celsius Holdings, Inc.",
+        "symbol": "CELH",
+        "price": "57.50",
+        "change": "+0.01",
+        "percentChange": "+0.02",
+        "volume": "5.382M",
+        "avgVolume": "6.038M",
+        "marketCap": "14.823B",
+        "peRatio": "143.75"
+      },
+      {
+        "name": "Nasdaq, Inc.",
+        "symbol": "NDAQ",
+        "price": "86.91",
+        "change": "-1.54",
+        "percentChange": "-1.74",
+        "volume": "5.349M",
+        "avgVolume": "3.448M",
+        "marketCap": "50.213B",
+        "peRatio": "33.69"
+      },
+      {
+        "name": "Rithm Capital Corp.",
+        "symbol": "RITM",
+        "price": "11.22",
+        "change": "+0.08",
+        "percentChange": "+0.72",
+        "volume": "5.329M",
+        "avgVolume": "5.144M",
+        "marketCap": "6.162B",
+        "peRatio": "8.90"
+      }
+    ]
+  }
+]

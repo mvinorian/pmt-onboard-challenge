@@ -1,0 +1,92 @@
+[
+  {
+    "coinName": "Bitcoin",
+    "coinShorthand": "BTC",
+    "price": "1962517994",
+    "24hchange": "2.78",
+    "1wchange": "4.46",
+    "1mchange": "8.51",
+    "1ychange": "111.01"
+  },
+  {
+    "coinName": "Ethereum",
+    "coinShorthand": "ETH",
+    "price": "72724465",
+    "24hchange": "4.81",
+    "1wchange": "7.17",
+    "1mchange": "-0.50",
+    "1ychange": "93.77"
+  },
+  {
+    "coinName": "XRP",
+    "coinShorthand": "XRP",
+    "price": "49407",
+    "24hchange": "3.24",
+    "1wchange": "3.00",
+    "1mchange": "6.90",
+    "1ychange": "441.27"
+  },
+  {
+    "coinName": "Tether",
+    "coinShorthand": "USDT",
+    "price": "16641",
+    "24hchange": "-0.40",
+    "1wchange": "-1.08",
+    "1mchange": "0.76",
+    "1ychange": "8.94"
+  },
+  {
+    "coinName": "BNB",
+    "coinShorthand": "BNB",
+    "price": "17174966",
+    "24hchange": "2.06",
+    "1wchange": "2.78",
+    "1mchange": "21.19",
+    "1ychange": "105.23"
+  },
+  {
+    "coinName": "Solana",
+    "coinShorthand": "SOL",
+    "price": "3711035",
+    "24hchange": "5.53",
+    "1wchange": "7.41",
+    "1mchange": "12.17",
+    "1ychange": "67.17"
+  },
+  {
+    "coinName": "USDC",
+    "coinShorthand": "USDC",
+    "price": "16584",
+    "24hchange": "-0.35",
+    "1wchange": "-1.07",
+    "1mchange": "0.43",
+    "1ychange": "8.82"
+  },
+  {
+    "coinName": "Dogecoin",
+    "coinShorthand": "DOGE",
+    "price": "4237",
+    "24hchange": "8.64",
+    "1wchange": "7.57",
+    "1mchange": "17.69",
+    "1ychange": "158.51"
+  },
+  {
+    "coinName": "Tron",
+    "coinShorthand": "TRX",
+    "price": "5659",
+    "24hchange": "1.40",
+    "1wchange": "0.75",
+    "1mchange": "0.66",
+    "1ychange": "141.84"
+  },
+  {
+    "coinName": "Cardano",
+    "coinShorthand": "ADA",
+    "price": "14169",
+    "24hchange": "5.67",
+    "1wchange": "6.34",
+    "1mchange": "2.79",
+    "1ychange": "164.15"
+  }
+]
