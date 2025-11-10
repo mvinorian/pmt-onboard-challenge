@@ -1,0 +1,19 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^24.6.0",
+    "@types/puppeteer": "^5.4.7",
+    "puppeteer": "^24.22.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.2"
+  }
+}
